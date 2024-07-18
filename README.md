@@ -23,9 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/13marcell13_hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="13marcell13_hu" height="30" width="40" /></a>
-<a href="https://instagram.com/13marcell13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13marcell13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/13marcell13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="13marcell13" height="30" width="40" /></a>
+<a href="https://instagram.com/09marcell13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="09marcell13" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@13marcell13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="13marcell13" height="30" width="40" /></a>
 <a href="https://discord.gg/13marcell13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="13marcell13" height="30" width="40" /></a>
 </p>
 
