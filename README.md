@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=13marcell13" alt="13marcell13" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/13marcell13_hu" target="blank"><img src="https://img.shields.io/twitter/follow/13marcell13_hu?logo=twitter&style=for-the-badge" alt="13marcell13_hu" /></a> </p>
-
 - 🔭 I’m currently working on [Nothing](-)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **LuaU**
 
 - 👯 I’m looking to collaborate on [Nothing](-)
 
@@ -17,15 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/13marcell13](https://github.com/13marcell13)
 
-- 📝 I regularly write articles on [https://twitter.com/13marcell13_hu](https://twitter.com/13marcell13_hu)
-
 - 💬 Ask me about **Python, HTML and discord.js**
 
 - 📫 How to reach me **13marcell13 on Discord**
 
-- 📄 Know about my experiences [https://twitter.com/13marcell13_hu](https://twitter.com/13marcell13_hu)
-
-- ⚡ Fun fact **I am a Counter-Strike player, trader and YouTuber**
+- ⚡ Fun fact **I like CS2 and War Thunder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
